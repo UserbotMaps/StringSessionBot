@@ -24,16 +24,16 @@ class Data:
     START = """
 Hey {}
 
-Welcome to {}
+Welcome to {} 
 
-If you don't trust this bot, 
-1) stop reading this message
-2) delete this chat
+ᴊɪᴋᴀ ᴋᴀᴍᴜ ᴛɪᴅᴀᴋ ᴘᴇʀᴄᴀʏᴀ ʙᴏᴛ ɪɴɪ,  
+1. ɢᴀᴜsᴀʜ ʙᴀᴄᴀ ᴘᴇsᴀɴ ɪɴɪ
+2. ʙʟᴏᴋɪʀ ʙᴏᴛ ᴀᴛᴀᴜ ᴅᴇʟᴇᴛᴇ ᴄʜᴀᴛ
 
-Still reading?
-You can use me to generate pyrogram (even version 2) and telethon string session. Use below buttons to learn more !
+sᴛɪʟʟ ᴄᴏᴍᴍᴀɴᴅ?
+ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ (ᴇᴠᴇɴ ᴠᴇʀsɪᴏɴ 𝟸) ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴ. ᴜsᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ !
 
-By @Bisubiarenak
+ʙʏ @Bisubiarenak
     """
 
     HELP = """
