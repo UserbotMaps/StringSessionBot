@@ -2,23 +2,23 @@ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
-    generate_single_button = [InlineKeyboardButton("Start Generating Session", callback_data="generate")]
+    generate_single_button = [InlineKeyboardButton("sᴛᴀʀᴛ ɢᴇɴᴇʀᴀᴛɪɴɢ sᴇssɪᴏɴ", callback_data="generate")]
 
     home_buttons = [
         generate_single_button,
-        [InlineKeyboardButton(text="Return Home", callback_data="home")]
+        [InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ ", callback_data="home")]
     ]
 
     generate_button = [generate_single_button]
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("Bot Status and More Bots", url="https://t.me/bombleebas")],
+        [InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/bombleebas")],
         [
-            InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("About", callback_data="about")
+            InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ", callback_data="help"), 
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("Developer", url="https://t.me/Bisubiarenak")],
+        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Bisubiarenak")],
     ]
 
     START = """
@@ -54,9 +54,9 @@ Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @Hir
 
 Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/hiroshisupport)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+Framework : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
-Language : [Python](www.python.org)
+Language : [ᴘʏᴛʜᴏɴ](www.python.org)
 
 Developer : @Bisubiarenak
     """
