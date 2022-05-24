@@ -18,7 +18,7 @@ class Data:
             InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅ", callback_data="help"), 
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Bisubiarenak")],
+        [InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/sadcall")],
     ]
 
     START = """
@@ -33,7 +33,7 @@ class Data:
 **Still Command** ? 
 ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ sᴀʏᴀ ᴜɴᴛᴜᴋ ᴍᴇɴɢʜᴀsɪʟᴋᴀɴ ᴘʏʀᴏɢʀᴀᴍ ( ᴇᴠᴇɴ ᴠᴇʀsɪᴏɴ 𝟸 ) ᴅᴀɴ sᴇsɪ sᴛʀɪɴɢ ᴛᴇʟᴇᴛʜᴏɴ. ɢᴜɴᴀᴋᴀɴ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍᴘᴇʟᴀᴊᴀʀɪ ʟᴇʙɪʜ ʟᴀɴᴊᴜᴛ.. 
 
-""Developer** : @Bisubiarenak 
+**Developer** : @sadcall 
     """
 
     HELP = """
@@ -50,7 +50,7 @@ class Data:
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @HiroStringbot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @Icallsessionbot
 
 Group Support : [ɢᴀʙᴜɴɢ ᴋᴏɴᴛᴏʟ](https://t.me/hiroshisupport)
 
@@ -58,5 +58,5 @@ Framework : [ᴘʏʀᴏɢʀᴀᴍ](docs.pyrogram.org)
 
 Language : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-Developer : @Bisubiarenak
+Developer : @sadcall
     """
